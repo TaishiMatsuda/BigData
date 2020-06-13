@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Class Materials
+ClassMaterial
+
 # Distribution / packaging
 .Python
 build/
